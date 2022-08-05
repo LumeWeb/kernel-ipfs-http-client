@@ -1,2 +1,2 @@
 # kernel-ipfs-client
-IPFS client interface to @lumeweb/kernel-ipfs module
+IPFS client interface to @lumeweb/kernel-ipfs-http module
